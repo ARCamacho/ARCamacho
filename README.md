@@ -26,6 +26,15 @@ I'm a developer focused on delivering complete web solutions, especially for **S
 
 ---
 
+### My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adriano-camacho&theme=radical&show_icons=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-camacho&layout=compact&theme=radical&hide_border=true" width="41%" />
+</div>
+
+---
+
 ### Contact
 
 - Email: [camacho.dri94@gmail.com](mailto:camacho.dri94@gmail.com)  
