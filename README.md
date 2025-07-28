@@ -20,7 +20,7 @@ Sou desenvolvedor com foco em soluções web completas prinpalmente voltada para
 ### Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,html,css,tailwind,mongodb,git,github,docker,puppeteer,vite,flowbite" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,html,css,tailwind,mongodb,github,puppeteer,vite,flowbite" />
 </p>
 
 ---
