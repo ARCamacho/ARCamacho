@@ -7,7 +7,7 @@
 
 Sou desenvolvedor com foco em soluções web completas prinpalmente voltada para SAAS, atuando tanto no front-end quanto no back-end. Tenho experiência prática com:
 
-- Criação de portais web com **React**, **Angular** e **Tailwind CSS**
+- Criação de portais web com **React**, **Angular**, **Tailwind CSS**, e **Flowbite**
 - Desenvolvimento de **APIs RESTful** com **Node.js**
 - Documentação de APIs com **Swagger**
 - Integrações complexas com **sistemas financeiros e CRMs**
