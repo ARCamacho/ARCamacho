@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! I'm Adriano Camacho </h1>
-<p align="center">Full Stack Developer | Specialist in automations, APIs, and scalable solutions</p>
+<p align="center">Full-Stack Developer | SaaS Platforms | Web Solutions </p>
 
 ---
 
 ### About Me
 
-I'm a developer focused on delivering complete web solutions, especially for **SaaS platforms**, working on both frontend and backend. I have hands-on experience with:
+I’m a full-stack developer focused on delivering complete web solutions for SaaS platforms. I work across the entire development stack, building scalable, maintainable, and efficient applications.:
 
 - Building web portals using **React**, **Angular**, **Tailwind CSS**, and **Flowbite**
 - Developing **RESTful APIs** with **Node.js**
@@ -26,14 +26,6 @@ I'm a developer focused on delivering complete web solutions, especially for **S
 
 ---
 
-### My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARCamacho&theme=radical&show_icons=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCamacho&layout=compact&theme=radical&hide_border=true" width="41%" />
-</div>
-
----
 
 ### Contact
 
@@ -44,6 +36,6 @@ I'm a developer focused on delivering complete web solutions, especially for **S
 
 ### Thanks for stopping by
 
-Feel free to explore my repositories and reach out for collaboration, freelance work, or new opportunities!
+I bring a practical, solution-oriented approach to development, with a focus on clean code, performance, and scalability.
 
 ---
