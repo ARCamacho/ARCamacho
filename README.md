@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Adriano Camacho 👋</h1>
+<h1 align="center">Olá! Eu sou o Adriano Camacho </h1>
 <p align="center">Desenvolvedor Full Stack | Especialista em automações, APIs e soluções escaláveis</p>
 
 ---
@@ -22,15 +22,6 @@ Sou desenvolvedor com foco em soluções web completas prinpalmente voltada para
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,html,css,tailwind,mongodb,git,github,docker,puppeteer,vite,flowbite" />
 </p>
-
----
-
-### GitHub Stats
-
-<div align="center">  
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=adriano-camacho&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-camacho&theme=radical&show_icons=true&hide_border=true&layout=compact" />
-</div>
 
 ---
 
